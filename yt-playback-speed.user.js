@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Default Playback Speed (Improved)
-// @version      3.1
+// @version      3.1.0
 // @description  Automatically sets YouTube playback speed with configurable settings, smart detection, and better reliability. Includes update checker.
 // @author       RM
 // @match        *://www.youtube.com/*/**
