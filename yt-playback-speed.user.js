@@ -3,9 +3,8 @@
 // @version      3.1.0
 // @description  Automatically sets YouTube playback speed with configurable settings, smart detection, and better reliability. Includes update checker.
 // @author       RM
-// @match        *://www.youtube.com/*/**
-// @exclude      *://music.youtube.com/*/**
-// @exclude      *://studio.youtube.com/*/**
+// @match        *://*.youtube.com/*
+// @exclude      *://music.youtube.com/*
 // @grant        GM.getValue
 // @grant        GM.setValue
 // @grant        GM.registerMenuCommand
